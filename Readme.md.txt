@@ -1,0 +1,1 @@
+Neste projeto faço alguns campos para multiplicação e soma, dos valores e depois coloco um botão de ação para identificar o menor entre eles;
